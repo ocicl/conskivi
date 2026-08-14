@@ -1,0 +1,10 @@
+* conskivi
+
+A Redis-like key-value database in Common Lisp with multiple storage
+backends.
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/turtle-bazon/conskivi.git |
+| commit  | 0000000                                          |
+| systems | conskivi-core conskivi-fileonly conskivi-inmemory |
+|---------+--------------------------------------------------|
