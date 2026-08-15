@@ -5,6 +5,6 @@ backends.
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/turtle-bazon/conskivi.git |
-| commit  | f57ee57                                          |
+| commit  | abe7e75                                          |
 | systems | conskivi-core conskivi-fileonly conskivi-inmemory |
 |---------+--------------------------------------------------|
